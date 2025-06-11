@@ -1,0 +1,14 @@
+:root {
+    --primary: #d63384;  /* Deep pink */
+    --primary-dark: #a61e4d; /* Darker pink */
+    --secondary: #ae3ec9; /* Lavender purple */
+    --accent: #f06595;   /* Light pink */
+    --text: #495057;     /* Dark gray for text */
+    --light: #fff0f6;    /* Very light pink */
+    --white: #ffffff;
+    --success: #40c057;  /* Green */
+    --warning: #f59f00;  /* Amber */
+    --danger: #fa5252;   /* Red */
+    --shadow: 0 4px 6px rgba(214, 51, 132, 0.1); /* Pink shadow */
+    --transition: all 0.3s ease;
+}
